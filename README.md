@@ -39,7 +39,3 @@ O sistema permite cadastrar clientes (donos e pets), registrar serviços e calcu
 * Servico.java
 * SistemaPetshop.java
 * Main.java
-
-## Observação
-
-Sistema simples desenvolvido para trabalho da disciplina.
