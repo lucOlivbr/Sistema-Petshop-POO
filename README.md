@@ -1,15 +1,15 @@
-Sistema Petshop - POO
+## Sistema Petshop - POO
 
-Trabalho final da disciplina de Algoritmos e Programação.
+## Trabalho final da disciplina de Algoritmos e Programação.
 
-Alunos
+## Alunos
 Lucas Alves Oliveira - RA: 326129404
 Luis Gustavo Coelho de Melo - RA: 32616684
 
-Descrição
+## Descrição
 Este projeto é um sistema simples de petshop feito em Java. O sistema permite cadastrar clientes (donos e pets), registrar serviços que funcionam como vendas e calcular o total financeiro.
 
-Funcionalidades
+## Funcionalidades
 
 * Cadastrar cliente
 * Listar clientes
@@ -18,13 +18,13 @@ Funcionalidades
 * Registrar venda/serviço
 * Mostrar total financeiro
 
-Conceitos utilizados
+## Conceitos utilizados
 
 * Programação Orientada a Objetos
 * ArrayList
 * CRUD
 
-Estrutura do projeto
+## Estrutura do projeto
 
 * Cliente.java
 * Servico.java
