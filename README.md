@@ -1,6 +1,6 @@
 # Sistema Petshop - POO
 
-Trabalho final da disciplina de Programação Orientada a Objetos.
+Trabalho final da disciplina de Algoritimos e Programação.
 
 ## Alunos
 
