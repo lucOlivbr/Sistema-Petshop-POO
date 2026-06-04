@@ -1,6 +1,6 @@
 ## Sistema Petshop - POO
 
-## Trabalho final da disciplina de Algoritmos e Programação.
+Trabalho final da disciplina de Algoritmos e Programação.
 
 ## Alunos
 Lucas Alves Oliveira - RA: 326129404
