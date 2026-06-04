@@ -24,12 +24,6 @@ Conceitos utilizados
 * ArrayList
 * CRUD
 
-Como executar
-
-* Abrir no VS Code
-* Rodar o arquivo Main.java
-* Usar o menu pelo terminal
-
 Estrutura do projeto
 
 * Cliente.java
